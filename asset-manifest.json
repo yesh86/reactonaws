@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactonaws/static/css/main.b100e6da.chunk.css",
+    "main.js": "/reactonaws/static/js/main.c327e1a4.chunk.js",
+    "main.js.map": "/reactonaws/static/js/main.c327e1a4.chunk.js.map",
+    "runtime-main.js": "/reactonaws/static/js/runtime-main.18e98fda.js",
+    "runtime-main.js.map": "/reactonaws/static/js/runtime-main.18e98fda.js.map",
+    "static/js/2.63af83f1.chunk.js": "/reactonaws/static/js/2.63af83f1.chunk.js",
+    "static/js/2.63af83f1.chunk.js.map": "/reactonaws/static/js/2.63af83f1.chunk.js.map",
+    "index.html": "/reactonaws/index.html",
+    "precache-manifest.cb271896c2aa729ff206b58e9bca7e2c.js": "/reactonaws/precache-manifest.cb271896c2aa729ff206b58e9bca7e2c.js",
+    "service-worker.js": "/reactonaws/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/reactonaws/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/reactonaws/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18e98fda.js",
+    "static/js/2.63af83f1.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.c327e1a4.chunk.js"
+  ]
+}
